@@ -76,9 +76,9 @@ ul{
 .register{
 
 	border: 1px solid #A1856F;
-	height: 300px;
-	width: 620px;
-	margin-left: 500px;
+	height: 350px;
+	width: 820px;
+	margin-left: 400px;
 	margin-top: 130px;
 	background-color:black;
 	box-shadow: 0px 0px 1px 1px pink;
@@ -135,7 +135,7 @@ ul{
 }
 
 .form3{
-	margin-left: 450px;
+	margin-left: 650px;
 	margin-top: 20px;
 	height: 30px;
 	width: 100px;
